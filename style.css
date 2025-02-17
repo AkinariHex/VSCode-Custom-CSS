@@ -182,3 +182,8 @@
 .quick-input-list .quick-input-list-rows>.quick-input-list-row .monaco-icon-label {
   align-items: center !important
 }
+
+.monaco-editor [class*='ced-1-TextEditorDecorationType25']::before {
+  color: hsla(229.09, 40.83%, 80%, 0.8) !important;
+  font-weight: 600;
+}
