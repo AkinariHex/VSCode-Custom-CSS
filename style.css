@@ -183,7 +183,7 @@
   align-items: center !important
 }
 
-.monaco-editor [class*='ced-1-TextEditorDecorationType25']::before {
+.monaco-editor [class*='ced-1-TextEditorDecorationType']::before {
   color: hsla(229.09, 40.83%, 80%, 0.8) !important;
   font-weight: 600;
 }
